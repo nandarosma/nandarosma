@@ -134,14 +134,6 @@ Status:
 
 ---
 
-# 👾 GITHUB CONTRIBUTION PACMAN
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nandarosma/nandarosma/output/pacman-contribution-graph.svg">
-
-</div>
-
 # 🕹 VISITOR COUNTER
 
 <div align="center">
