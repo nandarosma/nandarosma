@@ -155,7 +155,7 @@ SYSTEM STATUS: ONLINE
   <img src="https://img.shields.io/badge/🎵%20Open%20My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 [Click Here To Listen 🎧](https://open.spotify.com/embed/playlist/4o5oPkM575wPSRnF4Ur4He?utm_source=generator)
 
