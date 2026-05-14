@@ -151,7 +151,7 @@ SYSTEM STATUS: ONLINE
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wz6z7n3xexample&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31vpnwcd63hsqz66eccte2b2saii&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 
 </div>
 
