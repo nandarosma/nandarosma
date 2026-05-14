@@ -187,13 +187,9 @@ SYSTEM STATUS: ONLINE
 
 <div align="center">
 
-<a href="https://open.spotify.com/playlist/4o5oPkM575wPSRnF4Ur4He">
+<a href="https://open.spotify.com/playlist/4o5oPkM575wPSRnF4Ur4He?si=9a90d687a50b47e3&pt=74dd36df0f9083050e6644ea2ec7882d">
   <img src="https://img.shields.io/badge/🎵%20Open%20My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-
-<br><br>
-
-[![Spotify]([https://img.shields.io/badge/Spotify-Playlist-1DB954?](https://open.spotify.com/playlist/4o5oPkM575wPSRnF4Ur4He?si=3fd3d109c27a4209&pt=270e3246f4d337f2924ff22ae0bb0a3b)style=for-the-badge&logo=spotify&logoColor=white)]
 
 </div>
 
