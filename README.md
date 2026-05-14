@@ -134,15 +134,13 @@ Status:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 👾 GITHUB CONTRIBUTION PACMAN
 
 <div align="center">
 
-![snake gif](https://github.com/nandarosma/nandarosma/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/nandarosma/nandarosma/output/pacman-contribution-graph.svg">
 
 </div>
-
----
 
 # 🕹 VISITOR COUNTER
 
