@@ -124,13 +124,13 @@ Status:
 
 ---
 
-# 🎮 GAMER ZONE
+# 🎸 GUITAR VIBES
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
 
-### ⚔ Eat • Sleep • Code • Game • Repeat ⚔
+### 🎶 Code by Day • Guitar by Night 🎶
 
 </div>
 
