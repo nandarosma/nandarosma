@@ -124,13 +124,13 @@ Status:
 
 ---
 
-# 🎸 GUITAR VIBES
+# 🌌 AESTHETIC VIBES
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/3o7TKsQ8UQK0H9JwJi/giphy.gif" width="500"/>
 
-### 🎶 Code by Day • Guitar by Night 🎶
+### ✨ Lost in Music, Coding & Late Night Vibes ✨
 
 </div>
 
