@@ -151,7 +151,7 @@ SYSTEM STATUS: ONLINE
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31vpnwcd63hsqz66eccte2b2saii&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+[![Spotify](https://spotify-now-playing-git-main-fotiecodes.vercel.app/api/spotify)](https://open.spotify.com/user/31vpnwcd63hsqz66eccte2b2saii)
 
 </div>
 
