@@ -147,11 +147,17 @@ SYSTEM STATUS: ONLINE
 
 ---
 
-# 🎧 NOW PLAYING
+# 🎧 MY SPOTIFY PLAYLIST
 
 <div align="center">
 
-[![Spotify](https://spotify-now-playing-git-main-fotiecodes.vercel.app/api/spotify)](https://open.spotify.com/user/31vpnwcd63hsqz66eccte2b2saii)
+<a href="https://open.spotify.com/playlist/4o5oPkM575wPSRnF4Ur4He">
+  <img src="https://img.shields.io/badge/🎵%20Open%20My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<br><br>
+
+[Click Here To Listen 🎧](https://open.spotify.com/embed/playlist/4o5oPkM575wPSRnF4Ur4He?utm_source=generator)
 
 </div>
 
