@@ -193,7 +193,7 @@ SYSTEM STATUS: ONLINE
 
 <br><br>
 
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4o5oPkM575wPSRnF4Ur4He)
+[![Spotify]([https://img.shields.io/badge/Spotify-Playlist-1DB954?](https://open.spotify.com/playlist/4o5oPkM575wPSRnF4Ur4He?si=3fd3d109c27a4209&pt=270e3246f4d337f2924ff22ae0bb0a3b)style=for-the-badge&logo=spotify&logoColor=white)]
 
 </div>
 
