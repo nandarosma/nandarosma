@@ -124,13 +124,13 @@ Status:
 
 ---
 
-# 🌌 AESTHETIC VIBES
+# 🎵 CYBER VIBES
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQK0H9JwJi/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="500"/>
 
-### ✨ Lost in Music, Coding & Late Night Vibes ✨
+### ✨ Music • Coding • Neon Lights ✨
 
 </div>
 
