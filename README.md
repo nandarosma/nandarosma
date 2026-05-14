@@ -124,18 +124,6 @@ Status:
 
 ---
 
-# 🎸 GUITAR VIBES
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/8f/8e/5d/8f8e5d8c4bbf0d8d4f6df2a0cbb4d99a.gif" width="500"/>
-
-### 🎶 Music • Coding • Midnight Vibes 🎶
-
-</div>
-
----
-
 # 🔥 STREAK STATS
 
 <div align="center">
