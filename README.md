@@ -12,36 +12,6 @@
 
 ---
 
-# 🌌 SYSTEM PROFILE
-
-```yaml
-Name: Nanda Rosma Anwar
-
-Role:
-  - AI Engineer
-  - Data Scientist
-  - ML Developer
-  - Full Stack Web Developer
-  - Graphic Designer
-  - Cybersecurity Learner
-
-Specialization:
-  - Machine Learning
-  - Deep Learning
-  - NLP
-  - Data Analysis
-  - Web Development
-  - Cybersecurity
-
-Status:
-  - Coding
-  - Learning
-  - Building
-  - Gaming
-```
-
----
-
 # ⚡ TECH ARSENAL
 
 ## 🤖 AI • DATA SCIENCE • MACHINE LEARNING
